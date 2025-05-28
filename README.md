@@ -10,3 +10,11 @@ Para preparar el entorno de desarrollo, sigue estos pasos:
 
    ```bash
    pip install -r requirements.txt
+
+
+
+
+
+
+
+   No sea hijuputa, jueputa, le meto su tiro malparido
