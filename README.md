@@ -1,10 +1,9 @@
-# Instalación del entorno y dependencias
+# Instalación de dependencias
 
 Para preparar el entorno de desarrollo, sigue estos pasos:
 
-## 1. Crear un entorno virtual (recomendado)
+1. **Crear un entorno virtual**  
+   Antes de instalar las dependencias, debes crear y activar un entorno virtual en tu proyecto para mantener las librerías aisladas.
 
-Ejecuta el siguiente comando en la terminal:
-
-```bash
-python -m venv venv
+2. **Instalar las dependencias desde `requirements.txt`**  
+   Una vez creado y activado el entorno virtual, ejecuta el siguiente comando en la ter
